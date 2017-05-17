@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@unumux/ux-build-tools": "3.6.0",
+    "babel-plugin-transform-async-to-generator": "^6.24.1"
+  },
+  "scripts": {
+    "start": "gulp --gulpfile=node_modules/@unumux/ux-build-tools/index.js --cwd=."
+  },
+  "dependencies": {
+    "@types/jquery": "^2.0.45",
+    "@types/lodash": "^4.14.64",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "regenerator-runtime": "^0.10.5"
+  }
+}
