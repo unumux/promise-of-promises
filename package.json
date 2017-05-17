@@ -2,7 +2,9 @@
   "private": true,
   "devDependencies": {
     "@unumux/ux-build-tools": "3.6.0",
-    "babel-plugin-transform-async-to-generator": "^6.24.1"
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1"
   },
   "scripts": {
     "start": "gulp --gulpfile=node_modules/@unumux/ux-build-tools/index.js --cwd=."
