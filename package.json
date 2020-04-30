@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/jquery": "^2.0.45",
     "@types/lodash": "^4.14.64",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.4",
     "regenerator-runtime": "^0.10.5"
   }
